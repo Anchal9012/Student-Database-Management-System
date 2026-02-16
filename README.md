@@ -17,11 +17,11 @@ This project is ideal for beginners learning:
 
 ## 🚀 Features
 
-✅ Add new student records
-✅ View all student records
-✅ Search for a student by ID
-✅ Update student information
-✅ Delete student records
+✅ Add new student records<br>
+✅ View all student records<br>
+✅ Search for a student by ID<br>
+✅ Update student information<br>
+✅ Delete student records<br>
 ✅ Menu-driven console interface
 
 ---
